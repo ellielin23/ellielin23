@@ -4,7 +4,7 @@
 - 💞️ I’d love to collaborate on anything, anytime!
 - 📫 How to reach me: ellielin [at] stanford.edu
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm really good at hula hooping :)
+- ⚡ Fun fact: I love to travel!
 
 <!---
 ellielin23/ellielin23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
