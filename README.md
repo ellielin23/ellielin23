@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ellielin23
-- 👀 I’m interested in physics, computer science, and neuroscience!
-- 🌱 I’m currently working on building a brownian motion simulator for glioblastoma tumor cells
-- 💞️ I’d love to collaborate on anything, anytime!
-- 📫 How to reach me: ellielin [at] stanford.edu
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love to travel!
+- 👋 hi, I’m @ellielin23
+- 👀 i’m broadly interested in physics, computer science, and drug discovery!
+- 🌱 i just finished a machine learning project for the early prediction of metastables states in molecular dynamics simulations.
+- 💞️ hobbies / interests: soccer, violin, art history, traveling, mahjong, sausage dogs
+- 📫 how to reach me: ellielin [at] stanford.edu
 
 <!---
 ellielin23/ellielin23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
